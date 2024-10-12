@@ -136,12 +136,15 @@ public class ScrabbleGame {
         // creates a scanner 
         Scanner scnr = new Scanner(System.in);
         System.out.println("Enter letter to exchange for random one:");
+        // gets a lowercase char input
         char letterToExchange = scnr.nextLine().toLowerCase().charAt(0);
 
+        // searches for the character that it supposed to be changed 
         for (int i = 0; i < letters.length; i++) {
             if (letters[i] == letterToExchange) {
                  // Generate new random letter from 'a' to 'z'
                 letters[i] = (char) ('a' + random.nextInt(26));
+                // prints out the change 
                 System.out.println("Exchanged " + letterToExchange + " for " + letters[i] + "." );
                 break;
             }
