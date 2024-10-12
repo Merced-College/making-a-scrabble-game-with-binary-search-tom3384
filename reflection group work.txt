@@ -1,0 +1,19 @@
+My understanding of object-oriented programming (e.g., classes, constructors, and data structures like ArrayLists) evolved as I collaborated on this task. 
+
+One way my understanding evolved was due to getting more hands on practice with coding and applying it to the scrabble project. I wanted to study in advance to prepare for the group work to make sure I wasn't a burden, so it was extra motivation for me to learn the class material. 
+
+Collaborating shows the importance of encapsulation (one of the fundamental concepts of object-oriented programming, along with inheritance, polymorphism and data abstraction). Like the name, encapsulation is like putting something in a capsule. A teammate might not know how a part of the code works, but they can still use it. An example is a car or a microwave, where we don't need to know what's going on under the hood to operate them. 
+
+OOP was also able to make the code a lot cleaner and readable. It breaks the problem down into smaller parts and makes it less intimidating (instead of one giant block of code). Making the code readable/understandable for your teammates is important so they can understand what is going on and follow up and add to the code. It also lets teammates work on different parts of the code without interfering with another object or while another teammate is working on something else. If we want to make additions to the code, we can target specific objects to update, and the rest of the code will continue to work fine. 
+
+Array lists were helpful because we could keep adding to the arraylist with what we scanned in the CollinsScrabbleWords_2019.txt file. 
+
+Challenges I encountered was that I worried my groupmates had more experience programming than I did, so it was a struggle to keep up and understand what they were doing. It made me feel like I wasn't getting as much out of the assignment as I should, since I feel like I am a slower coder than my groupmates. My solution was to do my best to study beforehand and try to understand the code before going into the group project, so I could do my best to contribute, rather than be a burden. 
+
+Other challenges were that I was worried my groupmates would be uncooperative/unhelpful/spiteful because they failed to respond and did not show up to the last 2 group meetings. It gave me a bit of unnecessary anxiety since they were unhappy, even though it is their fault for not responding and leaving it to the last minute. Only Jeremiah showed up and hosted the meeting, and the other two did not come again or respond, which was a challenge. We addressed this by just sitting down and doing the work with the two of us and hoping that we would not make any mistakes that would cause us to lose points, even though we have less group members to help us.
+
+Another problem was that liveshare kept bugging out and made it difficult to collaborate, since it would often scramble the code and become unintelligible on my end, but not on the host's end. We addressed this by restarting the liveshare multiple times throughout our meeting. Sometimes I would write code and it would not show up on his end, or it would get jumbled up, causing me to have to rewrite the code again. 
+
+The free zoom meetings only lasted 40 minutes, so Jeremiah resolved this by rehosting the meeting each time and recording them locally. We forgot to record a few of them accidentally as a result. 
+
+One bug we ran into was "java.util.NoSuchElementException: No line found", which we resolved by not closing the scanner as often. 
